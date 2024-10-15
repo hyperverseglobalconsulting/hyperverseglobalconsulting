@@ -31,16 +31,17 @@ A resident of Serbia, An AWS-Certified Big Data Specialist with over 10 years of
 _09/2023 - Present, Belgrade, Serbia_
 
 **Responsibilities:**
-Role Overview: As a Lead AWS Cloud Architect, managed entire cloud infrastructure & DevOps practices, aligning with the company’s
-focus on analytics solutions. My role involves strategic oversight & architectural design to enhance infrastructure efficiency.
-Cloud Infrastructure Design: Architect and manage robust, cloud-native solutions using IaaC for the company’s analytics-driven
-projects.
-Security and Access Management: Implement and maintain AWS access controls with detailed IAM roles and policies. Set up secure
-and efficient Kubernetes RBAC rules within EKS.
-Process Optimization: Overhaul and enhance CI/CD processes to integrate innovative cloud services, aiming to achieve superior
-operational metrics.
-Cost Management & Optimization: Implement cost-saving measures. Manage upgrades and transitions through strategic Blue-Green
-deployments, ensuring zero downtime and continuous delivery.
+Role Overview: As the Lead AWS Cloud Architect at Datavid Pvt Ltd, I hold comprehensive responsibility for the management and strategic enhancement of our cloud infrastructure and DevOps practices. My role centers on leveraging architectural insights to bolster infrastructure efficiency, particularly for analytics-driven initiatives.
+
+Key Responsibilities:
+
+Cloud Infrastructure Design: Spearhead the design and management of robust, scalable cloud-native solutions using Infrastructure as Code (IaC), tailored to support the company's data analytics projects. This involves meticulous planning and execution to ensure architectures are both resilient and agile.
+
+Security and Access Management: Craft and enforce comprehensive AWS IAM policies and Kubernetes RBAC configurations to fortify cloud environments. My focus is on minimizing risk by establishing stringent access controls and regularly updating security protocols to safeguard sensitive data and systems.
+
+Process Optimization: Revitalize and streamline CI/CD pipelines to incorporate cutting-edge cloud services and tools. My approach is aimed at enhancing automation, reducing manual overhead, and achieving superior operational performance metrics.
+
+Cost Management & Optimization: Devise and implement effective cost-control strategies, including the use of spot instances and strategic capacity reservations. Lead Blue-Green deployment tactics to facilitate seamless infrastructure upgrades and transitions, thereby ensuring uninterrupted service delivery and zero downtime.
 
 ### Education
 **Computer Science and Engineering**  
