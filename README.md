@@ -54,7 +54,7 @@ _06/1997 - 06/2001, Meerut (UP), India_
 
 **HashiCorp Certified: Terraform Associate (003)**  
 **(10/2024 - 10/2026)**  
-[View Certificate](https://www.credly.com/earner/earned/badge/e87b2217-09a5-4456-8877-bbaad4c63e6f](https://www.credly.com/badges/e87b2217-09a5-4456-8877-bbaad4c63e6f/public_url)
+[View Certificate](https://www.credly.com/badges/e87b2217-09a5-4456-8877-bbaad4c63e6f/public_url)
 
 ### Publications
 **Book: Exploring Bitcoin with Blockchain**  
