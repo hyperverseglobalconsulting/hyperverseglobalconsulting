@@ -26,22 +26,21 @@ A resident of Serbia, An AWS-Certified Big Data Specialist with over 10 years of
 🔗 **Website:** [hyperverseglobal.com](https://hyperverseglobal.com/)  
 
 ### Relevant Work Experience
-#### Lead DevOps Engineer
+#### AWS Architect & Consultant
 **Datavid Pvt Ltd (UK)**  
 _09/2023 - Present, Belgrade, Serbia_
 
 **Responsibilities:**
-- Full ownership of AWS infrastructure management and cost optimization
-- Implementing IaaC and GitOps to automate and streamline infrastructure deployment and management
-- Leading efforts to reduce the operational costs of EKS clusters
-
-**Technologies:**
-Terraform, AWS (VPC, EKS, S3, Load Balancers, Route53), Kubernetes, GitOps, automation tools
-
-**Tasks:**
-- Develop strategies to minimize AWS expenditure through effective resource allocation and use of spot instances
-- Automate infrastructure setup using IaaC, and introduce GitOps for continuous operation and governance
-- Optimize Kubernetes cluster costs and efficiency
+Role Overview: As a Lead AWS Cloud Architect, managed entire cloud infrastructure & DevOps practices, aligning with the company’s
+focus on analytics solutions. My role involves strategic oversight & architectural design to enhance infrastructure efficiency.
+Cloud Infrastructure Design: Architect and manage robust, cloud-native solutions using IaaC for the company’s analytics-driven
+projects.
+Security and Access Management: Implement and maintain AWS access controls with detailed IAM roles and policies. Set up secure
+and efficient Kubernetes RBAC rules within EKS.
+Process Optimization: Overhaul and enhance CI/CD processes to integrate innovative cloud services, aiming to achieve superior
+operational metrics.
+Cost Management & Optimization: Implement cost-saving measures. Manage upgrades and transitions through strategic Blue-Green
+deployments, ensuring zero downtime and continuous delivery.
 
 ### Education
 **Computer Science and Engineering**  
