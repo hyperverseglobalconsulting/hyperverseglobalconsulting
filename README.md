@@ -52,6 +52,10 @@ _06/1997 - 06/2001, Meerut (UP), India_
 **AWS Big Data Specialist**  
 [View Certificate](https://www.credly.com/badges/41b0129d-5d0a-490d-931fcd9b90e5a411/public_url)
 
+**HashiCorp Certified: Terraform Associate (003)
+(10/2024 - 10/2026)
+[View Certificate](https://www.credly.com/earner/earned/badge/e87b2217-09a5-4456-8877-bbaad4c63e6f)
+
 ### Publications
 **Book: Exploring Bitcoin with Blockchain**  
 Published on 05/07/2022 by BPB Publications India  
