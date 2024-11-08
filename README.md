@@ -18,30 +18,48 @@ Here are some ideas to get you started:
 ---
 
 ### Vizeet Srivastava
-**DevOps and Platform Engineering Consultant**
+**AWS Cloud Architect, DevOps Engineer and Cloud Consultant**
 
-A resident of Serbia, An AWS-Certified Big Data Specialist with over 10 years of hands-on experience in AWS DevOps and Big Data, specializing in driving product development and leading technical teams to deliver innovative, scalable solutions. I possess a unique blend of leadership and technical expertise, ensuring that projects are executed with strategic oversight and technical excellence. My extensive experience spans AWS cloud services, Platform Engineering, IaaC, GitOps, and DevOps practices, which enables me to efficiently manage and reduce costs of AWS services and EKS clusters.
+AWS Certified Big Data Specialist, author of a technical book, and active technical blogger. With over eight years of experience in AWS networking and big data, I excel in spearheading product development,
+decision making, and steering technical teams toward the delivery of innovative, scalable solutions. My expertise as a data engineer in AWS cloud services, big data technologies, DevOps practices, continuous integration, and agile methodologies allows me to lead projects from inception to completion with strategic, technical precision, and e􀀩ective collaboration and communication.
 
 📍 **Location:** Belgrade, Serbia  
 🔗 **Website:** [hyperverseglobal.com](https://hyperverseglobal.com/)  
 
-### Relevant Work Experience
-#### AWS Architect & Consultant
-**Datavid Pvt Ltd (UK)**  
-_09/2023 - Present, Belgrade, Serbia_
+## Key Skills
 
-**Responsibilities:**
-Role Overview: As the Lead AWS Cloud Architect at Datavid Pvt Ltd, I hold comprehensive responsibility for the management and strategic enhancement of our cloud infrastructure and DevOps practices. My role centers on leveraging architectural insights to bolster infrastructure efficiency, particularly for analytics-driven initiatives.
+- **Cloud & Containerization:** AWS Cloud (EKS, Lambda, RDS, EC2, CloudWatch), Docker, Kubernetes (StatefulSets, Init-Containers, Sidecar Containers).
+- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation, Ansible.
+- **CI/CD & Automation:** GitLab CI/CD, Azure DevOps, Jenkins, Concourse.
+- **Observability & Monitoring:** Prometheus, Grafana, CloudWatch.
+- **DevOps Practices:** Cost management, security & access management, CI/CD pipeline optimization, infrastructure resilience.
+- **Programming Languages:** Python, Shell scripting.
 
-Key Responsibilities:
+## Relevant Work Experience
 
-Cloud Infrastructure Design: Spearhead the design and management of robust, scalable cloud-native solutions using Infrastructure as Code (IaC), tailored to support the company's data analytics projects. This involves meticulous planning and execution to ensure architectures are both resilient and agile.
+### AWS Cloud Architect & Consultant | Datavid Pvt Ltd (UK)
+**09/2023 - Present, Belgrade, Serbia**
 
-Security and Access Management: Craft and enforce comprehensive AWS IAM policies and Kubernetes RBAC configurations to fortify cloud environments. My focus is on minimizing risk by establishing stringent access controls and regularly updating security protocols to safeguard sensitive data and systems.
+- Lead the architecture and strategic enhancement of cloud infrastructure and DevOps practices, aligning with Datavid’s focus on analytics-driven projects.
+- Architected and managed scalable cloud-native solutions using Infrastructure as Code (IaC) with **Terraform** and **AWS CloudFormation**, enhancing efficiency, security, and growth.
+- Defined and enforced security and access management through **AWS IAM** roles and **Kubernetes RBAC** rules within **EKS**, ensuring secure environments.
+- Optimized CI/CD pipelines using **GitLab** and **Azure DevOps** to incorporate advanced cloud services, achieving higher automation and reducing manual overhead.
+- Implemented cost-control strategies like **spot instances** and **capacity reservations**, with **Blue-Green deployments** for seamless upgrades and zero downtime.
 
-Process Optimization: Revitalize and streamline CI/CD pipelines to incorporate cutting-edge cloud services and tools. My approach is aimed at enhancing automation, reducing manual overhead, and achieving superior operational performance metrics.
+### Cloud Specialist - Pricing Foundation | IBM India Pvt Ltd (Client: British Petroleum UK)
+**05/2021 - 02/2022, Bangalore, India**
 
-Cost Management & Optimization: Devise and implement effective cost-control strategies, including the use of spot instances and strategic capacity reservations. Lead Blue-Green deployment tactics to facilitate seamless infrastructure upgrades and transitions, thereby ensuring uninterrupted service delivery and zero downtime.
+- Designed and led the architecture for an **EDW and EDL data transformation** solution utilizing **AWS Glue**, **AWS Step Functions**, and **Python**.
+- Utilized **Amazon S3** as a data lake and **Elasticsearch** for search capabilities to enhance data accessibility.
+- Developed data transformation pipelines and automated data workflows with **AWS Step Functions**, and used **Redshift** for further analytics.
+- Created and managed IaC using **Terraform** and **AWS CloudFormation**; implemented CI/CD infrastructure setup with **GitLab** and **Azure DevOps**.
+
+### Application Consultant - EDL Redemption | IBM India Pvt Ltd (Client: Scotia Bank)
+**05/2020 - 10/2020, Bangalore, India**
+
+- Enhanced observability and monitoring in **Hadoop Yarn** environments by setting up metrics with **Grafana** and **Prometheus**, integrated through **Ambari Metrics Collector**.
+- Developed **PySpark** jobs to simulate data scenarios, aiding system testing and architecture validation.
+- Utilized **Python** and **Plotly** for interactive visualizations, facilitating data-driven decisions and improved operational metrics.
 
 ### Education
 **Computer Science and Engineering**  
