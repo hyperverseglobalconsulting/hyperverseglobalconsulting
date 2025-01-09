@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 AWS Certified Big Data Specialist, author of a technical book, and active technical blogger. With over eight years of experience in AWS networking and big data, I excel in spearheading product development,
 decision making, and steering technical teams toward the delivery of innovative, scalable solutions. My expertise as a data engineer in AWS cloud services, big data technologies, DevOps practices, continuous integration, and agile methodologies allows me to lead projects from inception to completion with strategic, technical precision, and e􀀩ective collaboration and communication.
 
-📍 **Location:** Belgrade, Serbia  
+📍 **Location:** Bengaluru, India  
 🔗 **Website:** [hyperverseglobal.com](https://hyperverseglobal.com/)  
 
 ## Key Skills
@@ -38,7 +38,7 @@ decision making, and steering technical teams toward the delivery of innovative,
 ## Relevant Work Experience
 
 ### AWS Cloud Architect & Consultant | Datavid Pvt Ltd (UK)
-**09/2023 - Present, Belgrade, Serbia**
+**03/2023 - 11/2024, Belgrade, Serbia**
 
 - Lead the architecture and strategic enhancement of cloud infrastructure and DevOps practices, aligning with Datavid’s focus on analytics-driven projects.
 - Architected and managed scalable cloud-native solutions using Infrastructure as Code (IaC) with **Terraform** and **AWS CloudFormation**, enhancing efficiency, security, and growth.
