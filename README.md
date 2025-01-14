@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 ---
 
 ### Vizeet Srivastava
-**AWS Cloud Architect, DevOps Engineer and Cloud Consultant**
+**AWS Cloud Architect, DevOps Engineer, and Cloud Consultant**
 
 AWS Certified Big Data Specialist, author of a technical book, and active technical blogger. With over eight years of experience in AWS networking and big data, I excel in spearheading product development,
-decision making, and steering technical teams toward the delivery of innovative, scalable solutions. My expertise as a data engineer in AWS cloud services, big data technologies, DevOps practices, continuous integration, and agile methodologies allows me to lead projects from inception to completion with strategic, technical precision, and e􀀩ective collaboration and communication.
+decision-making, and steering technical teams toward the delivery of innovative, scalable solutions. My expertise as a data engineer in AWS cloud services, big data technologies, DevOps practices, continuous integration, and agile methodologies allows me to lead projects from inception to completion with strategic, technical precision, and effective collaboration and communication.
 
-📍 **Location:** Bengaluru, India  
+📍 **Location:** Belgrade, Serbia 
 🔗 **Website:** [hyperverseglobal.com](https://hyperverseglobal.com/)  
 
 ## Key Skills
