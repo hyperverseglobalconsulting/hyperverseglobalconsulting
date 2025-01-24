@@ -71,7 +71,7 @@ _06/1997 - 06/2001, Meerut (UP), India_
 **(11/2024 - 11/2027)**  
 [View Certificate](https://www.credly.com/badges/05d8c10c-283d-42c8-84f3-1c1cbcba3769/public_url)
 
-**HashiCorp Terraform Associate (003)**  
+**HashiCorp Certified: Terraform Associate (003)**  
 **(10/2024 - 10/2026)**  
 [View Certificate](https://www.credly.com/badges/e87b2217-09a5-4456-8877-bbaad4c63e6f/public_url)
 
