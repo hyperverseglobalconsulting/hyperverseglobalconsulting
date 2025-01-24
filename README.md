@@ -67,16 +67,17 @@ decision-making, and steering technical teams toward the delivery of innovative,
 _06/1997 - 06/2001, Meerut (UP), India_
 
 ### Certificates
-**HashiCorp Certified: Terraform Associate** 
-**(10/2024 - 10/2026)** 
+**AWS Solution Architect Associate**
+**(11/2024 - 11/2027)** 
 [View Certificate](https://www.credly.com/badges/05d8c10c-283d-42c8-84f3-1c1cbcba3769/public_url)
 
-**AWS Big Data Specialist**  
-[View Certificate](https://www.credly.com/badges/41b0129d-5d0a-490d-931fcd9b90e5a411/public_url)
-
-**HashiCorp Certified: Terraform Associate (003)**  
+**HashiCorp Terraform Associate (003)**
 **(10/2024 - 10/2026)**  
 [View Certificate](https://www.credly.com/badges/e87b2217-09a5-4456-8877-bbaad4c63e6f/public_url)
+
+**AWS Big Data Associate**
+**(12/2024 - 12/2027)**
+[View Certificate](https://www.credly.com/badges/45775fe8-e2aa-4456-b449-8034d85edc21/public_url)
 
 ### Publications
 **Book: Exploring Bitcoin with Blockchain**  
