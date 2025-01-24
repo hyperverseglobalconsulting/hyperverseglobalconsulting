@@ -67,7 +67,7 @@ decision-making, and steering technical teams toward the delivery of innovative,
 _06/1997 - 06/2001, Meerut (UP), India_
 
 ### Certificates
-**AWS Solution Architect Associate**  
+**AWS Certified Solutions Architect – Associate**  
 **(11/2024 - 11/2027)**  
 [View Certificate](https://www.credly.com/badges/05d8c10c-283d-42c8-84f3-1c1cbcba3769/public_url)
 
