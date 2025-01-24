@@ -96,5 +96,5 @@ Published on 05/07/2022 by BPB Publications India
 - **Workflow and Orchestration:** Step Function
 
 ### Languages
-- **English:** Native or Bilingual Proficiency
+- **English:** Full professional proficiency
 - **Hindi:** Native or Bilingual Proficiency
