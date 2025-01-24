@@ -75,7 +75,7 @@ _06/1997 - 06/2001, Meerut (UP), India_
 **(10/2024 - 10/2026)**  
 [View Certificate](https://www.credly.com/badges/e87b2217-09a5-4456-8877-bbaad4c63e6f/public_url)
 
-**AWS Big Data Associate**  
+**AWS Certified Data Engineer – Associate**  
 **(12/2024 - 12/2027)**  
 [View Certificate](https://www.credly.com/badges/45775fe8-e2aa-4456-b449-8034d85edc21/public_url)
 
