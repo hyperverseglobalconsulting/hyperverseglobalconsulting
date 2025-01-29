@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that integrate cloud, automation, and data management to create robust platforms.
 - 🤔 I’m looking for help with advanced Kubernetes configurations.
 - 💬 Ask me about AWS optimizations, DevOps transformations, or platform engineering.
-- 📫 How to reach me: [Email](mailto:vizeet@gmail.com) | [LinkedIn](https://linkedin.com/in/vizeet-srivastava) | [GitHub](https://github.com/hyperverseglobalconsulting)
+- 📫 How to reach me:  [LinkedIn](https://linkedin.com/in/vizeet-srivastava) | [GitHub](https://github.com/hyperverseglobalconsulting)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I authored a book on Bitcoin using my expertise in Python programming!
 
